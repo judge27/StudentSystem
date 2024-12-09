@@ -1,0 +1,62 @@
+.table-view {
+    -fx-background-color: lightgray;
+}
+.table-cell-centered .table-cell {
+    -fx-alignment: CENTER;
+}
+.table-view .column-header {
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+    -fx-text-fill: white;
+    -fx-background-color: #CCCCCC;
+}
+
+.table-row-cell {
+    -fx-background-color: #E0E0E0; /* Light gray for rows */
+}
+
+
+
+.table-row-cell:selected {
+    -fx-background-color: #64B5F6; /* Blue color for selected row */
+    -fx-text-fill: white;
+}
+.table-row-hidden {
+     -fx-opacity: 0; /* Set opacity to 0 to hide the row */
+     -fx-pref-height: 0; /* Set preferred height to 0 to hide the row */
+ }
+
+.table-cell {
+    -fx-alignment: CENTER;
+}
+.table-background {
+    -fx-background-color: lightgray; /* Example background color */
+    /* Or, for a background image */
+    -fx-background-image: url('university-background.jpg');
+    -fx-background-size: cover;
+    /* Add other background properties as needed */
+}
+/* styles.css */
+
+/* Odd rows */
+.table-row-cell {
+    -fx-background-color: #336699;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 18px;
+}
+.alert {
+    -fx-font-size: 14px;
+}
+
+.alert .dialog-pane {
+    -fx-background-color: lightgray;
+    -fx-border-color: grey;
+    -fx-border-width: 2px;
+}
+
+/* Customize button styles within the alert */
+.alert .button {
+    -fx-background-color: #4CAF50; /* Green */
+    -fx-text-fill:white;
+}

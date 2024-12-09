@@ -1,0 +1,52 @@
+{
+  "status" : "success",
+  "data" : [ [ {
+    "subject" : "Mathematics-2",
+    "grade" : "4"
+  }, {
+    "subject" : "Computer Introduction",
+    "grade" : "3"
+  }, {
+    "subject" : "Logic design 1",
+    "grade" : "2"
+  }, {
+    "subject" : "Statistics & Probabilities",
+    "grade" : "1"
+  } ], [ {
+    "subject" : "Data Structure",
+    "grade" : "4"
+  }, {
+    "subject" : "Operating System-1",
+    "grade" : "3"
+  }, {
+    "subject" : "Multimedia",
+    "grade" : "2"
+  }, {
+    "subject" : "Logic Design-2",
+    "grade" : "1"
+  } ], [ {
+    "subject" : "Digital Signal Processing",
+    "grade" : "4"
+  }, {
+    "subject" : "Computer Network-2",
+    "grade" : "3"
+  }, {
+    "subject" : "Artificial Intelligence",
+    "grade" : "2"
+  }, {
+    "subject" : "Database Systems-1",
+    "grade" : "1"
+  } ], [ {
+    "subject" : "Decision Theory",
+    "grade" : "4"
+  }, {
+    "subject" : "Knowledge Base Systems",
+    "grade" : "3"
+  }, {
+    "subject" : "Linear programming",
+    "grade" : "2"
+  }, {
+    "subject" : "Distributed Databases",
+    "grade" : "1"
+  } ] ]
+}
